@@ -115,6 +115,6 @@ IMAGIFY/
 
 This project is licensed under the ISC License.
 
----
+--
 
 **Imagify** – Unleash your creativity with AI-powered image generation!
